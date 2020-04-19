@@ -1,0 +1,23 @@
+body {
+  background-color: #81f5ff;
+}
+
+h1 {
+  color: #ff7c7c;
+  text-align: center;
+  font-size: 200px;
+}
+
+p {
+  color: #b21f66;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 50px;
+}
+
+img {
+  border-radius: 45%;
+  max-width: 50%;
+  height: auto;
+  background-color: red;
+}
